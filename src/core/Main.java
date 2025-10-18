@@ -11,6 +11,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * @author Addison Headley and Kirin Desai
+ */
 public class Main {
     private static final int WIDTH = 80;
     private static final int HEIGHT = 40;
